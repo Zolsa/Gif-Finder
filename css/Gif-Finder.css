@@ -1,0 +1,28 @@
+h1 {
+	text-align: center;
+	padding: 15px;
+	margin-bottom: 0;
+}
+
+.gif-div {
+	float: left;
+}
+
+img {
+	padding: 20px;
+}
+
+.gif {
+	margin: 20px;
+}
+
+.hidden {
+	display: none;
+}
+
+.visible {
+
+}
+
+
+
