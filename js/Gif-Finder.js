@@ -12,7 +12,6 @@ $(document).ready(function(){
     }
   }
 
-
   $("#add-gif").on("click", function(event) {
     var gif = $("#gif-input").val().trim();
     gifs.push(gif);
